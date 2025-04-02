@@ -1,0 +1,27 @@
+
+#all{
+    display: flex;
+    justify-content: center;
+}
+
+#all1{
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 0px 16px;
+}
+
+#title{
+    margin: 10px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 0px 10px 10px 10px;
+}
+
+#price{
+    background-color: rgba(248, 179, 6, 0.847);
+    border-radius: 5px;
+}
+
+#price1{
+    text-decoration: line-through;
+}

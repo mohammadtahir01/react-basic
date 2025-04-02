@@ -13,6 +13,9 @@ function Ama(){
            <AmazonCard/>
            <Amazon/>
            <AmazonPrice/>
+           {/* <AmazonCard/>
+           <Amazon/>
+           <AmazonPrice/> */}
            </div>
         </div>
         </>
